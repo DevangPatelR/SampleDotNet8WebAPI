@@ -27,11 +27,7 @@
 		  // Add the IDs of extensions you want installed when the container is created.
 		  "extensions": [
 			  "ms-azuretools.vscode-docker",
-			  "codeium.codeium",
-			  "esbenp.prettier-vscode", 
 			  "rvest.vs-code-prettier-eslint", 
-			  "svipas.prettier-plus", 
-			  "usernamehw.errorlens",
 			  "ms-dotnettools.vscode-dotnet-runtime",
 			  "ms-dotnettools.csharp",
 			  "ms-dotnettools.csdevkit"
